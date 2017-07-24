@@ -23,7 +23,7 @@ export class Fighter implements IFighter{
         if(this.health < 0 || this.health === 0){
             printTxt(`${this.name}'s health could not resist the final blow`);
         } else {
-            printTxt(`${this.name}'s health: ${this.health}`);
+            printTxt(`${this.name} got ${damage} points damage, his health is: ${this.health}`);
         }
 	}
 
