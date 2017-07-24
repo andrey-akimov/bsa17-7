@@ -1,3 +1,7 @@
-# Binary Studio Academy 17 JS.
-### Lecture 2 - JS.
-*Homework.*
+# Binary Studio Academy 2017 JS.
+### Lecture: TypeScript
+
+## Instalation
+npm install<br />
+npm run start<br />
+localhost:4040
